@@ -1,0 +1,25 @@
+body
+{
+    border-left: 25px solid gray;
+    border-right: 25px solid gray;
+    border-bottom: 25px solid gray;
+    border-top: 25px solid gray;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: cursive;
+}
+p
+{
+    border-left: cornflowerblue
+}
+.date
+{
+    color: cornflowerblue
+}
+.quote
+{
+    border-left: cornflowerblue
+
+}
